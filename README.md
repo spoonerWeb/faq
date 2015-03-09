@@ -1,0 +1,2 @@
+# faq
+New FAQ extension
